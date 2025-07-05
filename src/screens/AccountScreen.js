@@ -56,7 +56,7 @@ const AccountScreen = () => {
         </View>
       </View>
 
-      {/* Scrollable Content */}
+      {/* Scrollable Content screen */}
       <ScrollView
         style={styles.scrollView}
         contentContainerStyle={{ paddingBottom: 50 }}

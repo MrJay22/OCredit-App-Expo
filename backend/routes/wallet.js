@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const authMiddleware = require('../middleware/auth'); // ✅ not auth.something
+const authMiddleware = require('../middleware/auth'); // 
 const User = require('../models/User');
 
 // GET /wallet
